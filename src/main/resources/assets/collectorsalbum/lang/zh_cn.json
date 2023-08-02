@@ -899,7 +899,6 @@
   "item.collectorsalbum.uncommon_wooden_shovel_card": "卡片-木锨",
   "item.collectorsalbum.uncommon_wooden_sword_card": "卡片-木剑",
   "item.collectorsalbum.uncommon_zombie_card": "卡片-僵尸",
-
   "item.collectorsalbum.album": "§b集卡册",
   "item.collectorsalbum.common_card_package": "常见卡包",
   "item.collectorsalbum.epic_card_package": "史诗卡包",
@@ -925,6 +924,12 @@
   "card.category.collectorsalbum.mobs": "生物",
   "card.category.collectorsalbum.nature": "自然",
   "card.category.collectorsalbum.items": "物品",
+  "card.rarity.common": "常见",
+  "card.rarity.uncommon": "非凡",
+  "card.rarity.rare": "稀有",
+  "card.rarity.epic": "史诗",
+  "card.rarity.legendary": "传说",
+  "card.rarity.mythical": "神话",
 
   "text.collectorsalbum.album.header": "集卡册",
   "text.collectorsalbum.album.categories": "类别收集情况",
